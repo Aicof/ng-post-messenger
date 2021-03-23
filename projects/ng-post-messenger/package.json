@@ -1,0 +1,12 @@
+{
+  "name": "ng-post-messenger",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/core": "*",
+    "@angular/common": "*",
+    "typescript": "~3.8.2"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
