@@ -11,6 +11,7 @@
   "peerDependencies": {
     "@angular/core": "*",
     "@angular/common": "*",
+    "rxjs": "^6.5.2",
     "typescript": "~3.8.2"
   },
   "dependencies": {
