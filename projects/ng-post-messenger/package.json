@@ -1,6 +1,12 @@
 {
   "name": "ng-post-messenger",
-  "version": "9.0.1",
+  "version": "9.0.2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aicof/ng-post-messenger.git"
+  },
+  "homepage": "https://github.com/Aicof/ng-post-messenger",
+  "license": "MIT",
   "peerDependencies": {
     "@angular/core": "*",
     "@angular/common": "*",
