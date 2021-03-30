@@ -1,6 +1,7 @@
 {
   "name": "ng-post-messenger",
   "version": "9.0.2",
+  "description": "Lightweight service for safe communication between Window objects with Angular",
   "repository": {
     "type": "git",
     "url": "https://github.com/Aicof/ng-post-messenger.git"

@@ -7,13 +7,13 @@ Lightweight service for safe communication between Window objects with <a href="
 
 ## Table of contents
 1. [Getting Started](#getting-started)
-2. [Supporting](#supporting-ng-post-messenger)
+2. [Supporting](#supporting)
 3. [Installation instructions](#installation-instructions)
 4. [Usage](#usage)
 5. [Options](#options)
 6. [Compatibility](#compatibility)
-7. [Contributing](#contribution)
-8. [Licence](#license)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## Getting Started
 ng-post-messenger handles safe communications between Window objects on [Angular](https://angular.io) applications.
@@ -21,8 +21,8 @@ ng-post-messenger handles safe communications between Window objects on [Angular
 The library is based on the Window.postMessage() api. Information about compatibility and other related resources are available here:
 https://developer.mozilla.org/docs/Web/API/Window/postMessage
 
-## Supporting NgPostMessage
-ng-post-messenger is an Open Source (MIT Licensed) project started to solve specific problems for <a href="https://www.aicof.it/">Aicof s.r.l.</a> applications. All help and suggestions are appreciated!
+## Supporting
+ng-post-messenger is an Open Source (MIT Licensed) project started to solve specific problems for <a href="https://www.aicof.it/">Aicof</a> applications. All help and suggestions are appreciated!
 
 ## Installation instructions
 Install `ng-post-messenger` from `npm`:
