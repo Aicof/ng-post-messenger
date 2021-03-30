@@ -2,7 +2,7 @@
 
 Lightweight service for safe communication between Window objects with <a href="https://angular.io/">Angular</a>
 
-[![npm version](https://badge.fury.io/js/ng-post-meesenger.svg)](https://badge.fury.io/js/ng-post-meesenger)
+[![npm version](https://badge.fury.io/js/ng-post-meesenger.svg)](https://badge.fury.io/js/ng-post-messenger)
 
 
 ## Table of contents
