@@ -2,7 +2,7 @@
 
 Lightweight service for safe communication between Window objects with <a href="https://angular.io/">Angular</a>
 
-[![npm version](https://badge.fury.io/js/ng-post-meesenger.svg)](https://badge.fury.io/js/ng-post-messenger)
+[![npm version](https://badge.fury.io/js/ng-post-messenger.svg)](https://badge.fury.io/js/ng-post-messenger)
 
 
 ## Table of contents
@@ -150,3 +150,9 @@ All contributions are welcome! Both coding and helping others with troubleshooti
 ### License
 
 MIT
+
+### Contributors
+
+Main contributors:
+ - Fabio Baglione ([GitHub](https://github.com/fabiobaglione), [Linkedin](https://it.linkedin.com/in/fabio-baglione-b9b577147))
+ - Riccardo Perra ([GitHub](https://github.com/riccardoperra), [Linkedin](https://it.linkedin.com/in/riccardoperra))
